@@ -17,4 +17,6 @@ Post Topics/Ideas:
 - Mental Health
 - Developer personal development
 
+Project ideas, related to blog: 
 
+- Write a testing engine for js blog code
